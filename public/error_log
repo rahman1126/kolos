@@ -1,0 +1,429 @@
+[28-Mar-2016 04:01:07 UTC] PHP Warning:  require(/home/neptune2458/public_html/kolos.co.id/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/neptune2458/public_html/kolos.co.id/index.php on line 22
+[28-Mar-2016 04:01:07 UTC] PHP Fatal error:  require(): Failed opening required '/home/neptune2458/public_html/kolos.co.id/../bootstrap/autoload.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/neptune2458/public_html/kolos.co.id/index.php on line 22
+[28-Mar-2016 04:01:09 UTC] PHP Warning:  require(/home/neptune2458/public_html/kolos.co.id/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/neptune2458/public_html/kolos.co.id/index.php on line 22
+[28-Mar-2016 04:01:09 UTC] PHP Fatal error:  require(): Failed opening required '/home/neptune2458/public_html/kolos.co.id/../bootstrap/autoload.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/neptune2458/public_html/kolos.co.id/index.php on line 22
+[28-Mar-2016 04:01:10 UTC] PHP Warning:  require(/home/neptune2458/public_html/kolos.co.id/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/neptune2458/public_html/kolos.co.id/index.php on line 22
+[28-Mar-2016 04:01:10 UTC] PHP Fatal error:  require(): Failed opening required '/home/neptune2458/public_html/kolos.co.id/../bootstrap/autoload.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/neptune2458/public_html/kolos.co.id/index.php on line 22
+[28-Mar-2016 13:09:36 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '__data' (T_STRING) in /home/neptune2458/KOLOS/storage/framework/views/ac66cf229a8c4c11b1210ac4a2d722ce07c4b1d5.php on line 9
+[28-Mar-2016 13:43:21 Asia/Jakarta] PHP Fatal error:  Call to undefined function base_patch() in /home/neptune2458/public_html/kolos.co.id/index.php on line 39
+[30-Mar-2016 13:02:44 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\UserMerchant' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/CategoryUccul.php on line 36
+[30-Mar-2016 13:02:50 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\UserMerchant' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/CategoryUccul.php on line 36
+[31-Mar-2016 12:13:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/neptune2458/KOLOS/storage/framework/views/a3c104d33344f21a370db4dc57093fad764b1928.php on line 21
+[07-Apr-2016 19:33:37 Asia/Jakarta] PHP Fatal error:  Class 'App\orderService' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/OrderUccul.php on line 34
+[07-Apr-2016 20:55:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ']' in /home/neptune2458/KOLOS/app/Http/routes.php on line 62
+[07-Apr-2016 23:42:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/MerchantUccul.php on line 76
+[07-Apr-2016 23:44:25 Asia/Jakarta] PHP Fatal error:  Call to undefined function App\Http\Controllers\Api\prepend() in /home/neptune2458/KOLOS/app/Http/Controllers/Api/MerchantUccul.php on line 76
+[08-Apr-2016 09:37:28 Asia/Jakarta] PHP Fatal error:  Call to a member function getKey() on a non-object in /home/neptune2458/KOLOS/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Collection.php on line 110
+[08-Apr-2016 09:38:55 Asia/Jakarta] PHP Fatal error:  Call to a member function getKey() on a non-object in /home/neptune2458/KOLOS/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Collection.php on line 240
+[08-Apr-2016 09:40:31 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/MerchantUccul.php on line 76
+[08-Apr-2016 09:48:54 Asia/Jakarta] PHP Fatal error:  Call to a member function getKey() on a non-object in /home/neptune2458/KOLOS/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Collection.php on line 110
+[08-Apr-2016 09:51:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/neptune2458/KOLOS/app/Http/Controllers/Api/MerchantUccul.php on line 78
+[08-Apr-2016 09:52:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/neptune2458/KOLOS/app/Http/Controllers/Api/MerchantUccul.php on line 78
+[08-Apr-2016 09:56:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/MerchantUccul.php on line 52
+[08-Apr-2016 09:56:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/neptune2458/KOLOS/app/Http/Controllers/Api/MerchantUccul.php on line 52
+[10-Apr-2016 13:05:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/neptune2458/KOLOS/storage/framework/views/dda860d32111c677e067e8faa1720c66fd34c206.php on line 90
+[10-Apr-2016 13:05:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/neptune2458/KOLOS/storage/framework/views/dda860d32111c677e067e8faa1720c66fd34c206.php on line 90
+[10-Apr-2016 13:06:19 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/neptune2458/KOLOS/storage/framework/views/dda860d32111c677e067e8faa1720c66fd34c206.php on line 90
+[10-Apr-2016 13:07:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/neptune2458/KOLOS/storage/framework/views/dda860d32111c677e067e8faa1720c66fd34c206.php on line 90
+[10-Apr-2016 13:07:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/neptune2458/KOLOS/storage/framework/views/dda860d32111c677e067e8faa1720c66fd34c206.php on line 90
+[13-Apr-2016 19:59:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/neptune2458/KOLOS/app/Http/Controllers/FormController.php on line 57
+[18-Apr-2016 15:18:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/neptune2458/KOLOS/app/Http/Controllers/Api/OrderUccul.php on line 95
+[18-Apr-2016 15:19:17 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/neptune2458/KOLOS/app/Order.php on line 16
+[18-Apr-2016 15:25:13 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\UserMerchant' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/OrderUccul.php on line 95
+[18-Apr-2016 15:25:26 Asia/Jakarta] PHP Fatal error:  Class 'UserMerchant' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/OrderUccul.php on line 96
+[18-Apr-2016 15:25:30 Asia/Jakarta] PHP Fatal error:  Class 'UserMerchant' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/OrderUccul.php on line 96
+[18-Apr-2016 20:08:40 Asia/Jakarta] PHP Fatal error:  Call to a member function delete() on a non-object in /home/neptune2458/KOLOS/app/Http/Controllers/Api/MerchantUccul.php on line 192
+[19-Apr-2016 05:53:00 Asia/Jakarta] PHP Fatal error:  Call to a member function delete() on a non-object in /home/neptune2458/KOLOS/app/Http/Controllers/SlideshowController.php on line 168
+[19-Apr-2016 05:53:07 Asia/Jakarta] PHP Fatal error:  Call to a member function delete() on a non-object in /home/neptune2458/KOLOS/app/Http/Controllers/SlideshowController.php on line 168
+[20-Apr-2016 12:21:28 Asia/Jakarta] PHP Fatal error:  Call to a member function delete() on a non-object in /home/neptune2458/KOLOS/app/Http/Controllers/Api/MerchantUccul.php on line 192
+[20-Apr-2016 12:21:29 Asia/Jakarta] PHP Fatal error:  Call to a member function delete() on a non-object in /home/neptune2458/KOLOS/app/Http/Controllers/Api/MerchantUccul.php on line 192
+[20-Apr-2016 15:53:58 Asia/Jakarta] PHP Fatal error:  Call to a member function delete() on a non-object in /home/neptune2458/KOLOS/app/Http/Controllers/Api/MerchantUccul.php on line 192
+[20-Apr-2016 17:06:56 Asia/Jakarta] PHP Fatal error:  Call to a member function delete() on a non-object in /home/neptune2458/KOLOS/app/Http/Controllers/ServiceController.php on line 162
+[20-Apr-2016 19:54:22 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/MerchantUccul.php on line 58
+[22-Apr-2016 09:11:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'reviews' (T_STRING) in /home/neptune2458/KOLOS/app/Http/Controllers/Api/MerchantUccul.php on line 136
+[22-Apr-2016 09:29:46 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/neptune2458/KOLOS/app/Http/Controllers/Api/MerchantUccul.php on line 66
+[22-Apr-2016 09:30:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/neptune2458/KOLOS/app/Http/Controllers/Api/MerchantUccul.php on line 66
+[22-Apr-2016 09:31:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'user' (T_STRING), expecting variable (T_VARIABLE) in /home/neptune2458/KOLOS/app/Review.php on line 12
+[22-Apr-2016 09:31:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'user' (T_STRING), expecting variable (T_VARIABLE) in /home/neptune2458/KOLOS/app/Review.php on line 12
+[22-Apr-2016 09:34:17 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'user' (T_STRING), expecting variable (T_VARIABLE) in /home/neptune2458/KOLOS/app/Review.php on line 12
+[22-Apr-2016 09:34:59 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/neptune2458/KOLOS/app/Review.php on line 14
+[22-Apr-2016 09:40:36 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/neptune2458/KOLOS/app/Http/Controllers/Api/MerchantUccul.php on line 75
+[22-Apr-2016 09:43:23 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/neptune2458/KOLOS/app/Review.php on line 14
+[22-Apr-2016 09:43:37 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/neptune2458/KOLOS/app/Review.php on line 14
+[22-Apr-2016 11:15:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '085729274326' (T_LNUMBER), expecting '&' or variable (T_VARIABLE) in /home/neptune2458/KOLOS/app/Http/Controllers/ProController.php on line 416
+[22-Apr-2016 11:15:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '085729274326' (T_LNUMBER), expecting '&' or variable (T_VARIABLE) in /home/neptune2458/KOLOS/app/Http/Controllers/ProController.php on line 416
+[22-Apr-2016 11:15:27 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''085729274326'' (T_CONSTANT_ENCAPSED_STRING), expecting '&' or variable (T_VARIABLE) in /home/neptune2458/KOLOS/app/Http/Controllers/ProController.php on line 416
+[22-Apr-2016 11:15:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''085729274326'' (T_CONSTANT_ENCAPSED_STRING), expecting '&' or variable (T_VARIABLE) in /home/neptune2458/KOLOS/app/Http/Controllers/ProController.php on line 416
+[22-Apr-2016 15:49:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/neptune2458/KOLOS/storage/framework/views/28699368cdb5f9e252972b25043a8511d7ddee06.php on line 124
+[22-Apr-2016 15:49:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/neptune2458/KOLOS/storage/framework/views/28699368cdb5f9e252972b25043a8511d7ddee06.php on line 124
+[22-Apr-2016 15:49:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/neptune2458/KOLOS/storage/framework/views/28699368cdb5f9e252972b25043a8511d7ddee06.php on line 124
+[22-Apr-2016 17:10:47 Asia/Jakarta] PHP Fatal error:  Call to a member function isEmpty() on a non-object in /home/neptune2458/KOLOS/app/Http/Controllers/OrderController.php on line 94
+[26-Apr-2016 09:10:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')' in /home/neptune2458/KOLOS/storage/framework/views/8a6930369d457b6776bee8b5027cce99fabab146.php on line 45
+[26-Apr-2016 09:10:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')' in /home/neptune2458/KOLOS/storage/framework/views/8a6930369d457b6776bee8b5027cce99fabab146.php on line 45
+[26-Apr-2016 09:33:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home/neptune2458/KOLOS/storage/framework/views/8a6930369d457b6776bee8b5027cce99fabab146.php on line 47
+[26-Apr-2016 09:34:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home/neptune2458/KOLOS/storage/framework/views/8a6930369d457b6776bee8b5027cce99fabab146.php on line 47
+[26-Apr-2016 09:34:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home/neptune2458/KOLOS/storage/framework/views/8a6930369d457b6776bee8b5027cce99fabab146.php on line 47
+[28-Apr-2016 19:23:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/neptune2458/KOLOS/app/Http/Controllers/Api/OrderUccul.php on line 111
+[29-Apr-2016 14:00:35 Asia/Jakarta] PHP Fatal error:  Call to a member function format() on a non-object in /home/neptune2458/KOLOS/app/Http/Controllers/Api/OrderUccul.php on line 31
+[02-May-2016 17:01:29 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/neptune2458/KOLOS/app/Http/Controllers/Api/NotificationUccul.php on line 77
+[02-May-2016 17:01:50 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\GCM' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/NotificationUccul.php on line 72
+[04-May-2016 16:38:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'welcome' (T_STRING) in /home/neptune2458/KOLOS/storage/framework/views/70eb486ab30e6070236a2d52212ba8d21f1916d7.php on line 9
+[04-May-2016 22:44:00 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\UserMerchant' not found in /home/neptune2458/KOLOS/app/Http/Controllers/OrderController.php on line 117
+[04-May-2016 22:44:33 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Alert' not found in /home/neptune2458/KOLOS/app/Http/Controllers/OrderController.php on line 119
+[09-May-2016 10:42:52 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\Mail' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/OrderUccul.php on line 104
+[09-May-2016 13:19:23 Asia/Jakarta] PHP Fatal error:  Call to a member function format() on a non-object in /home/neptune2458/KOLOS/storage/framework/views/8a6930369d457b6776bee8b5027cce99fabab146.php on line 66
+[09-May-2016 13:27:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/neptune2458/KOLOS/storage/framework/views/dda860d32111c677e067e8faa1720c66fd34c206.php on line 213
+[10-May-2016 09:57:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[10-May-2016 09:58:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[10-May-2016 09:58:31 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[10-May-2016 09:58:46 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[10-May-2016 19:00:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[10-May-2016 19:01:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[10-May-2016 19:03:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[10-May-2016 19:17:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[10-May-2016 19:21:16 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[10-May-2016 19:31:18 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[10-May-2016 19:39:42 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[10-May-2016 19:40:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[10-May-2016 19:40:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[10-May-2016 19:41:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[10-May-2016 19:47:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[10-May-2016 19:47:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[10-May-2016 19:47:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[10-May-2016 19:57:36 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[10-May-2016 19:58:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[11-May-2016 21:51:51 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[11-May-2016 21:51:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[11-May-2016 21:52:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[11-May-2016 21:52:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[11-May-2016 21:53:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[11-May-2016 21:53:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[11-May-2016 21:54:50 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[11-May-2016 21:54:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[11-May-2016 21:56:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[11-May-2016 21:57:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[11-May-2016 21:57:52 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[11-May-2016 21:58:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[11-May-2016 21:58:22 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[11-May-2016 21:59:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[11-May-2016 21:59:57 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[11-May-2016 22:49:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[11-May-2016 23:01:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''location'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 66
+[12-May-2016 09:05:19 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 141
+[12-May-2016 13:32:53 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\Auth' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/MerchantUccul.php on line 152
+[12-May-2016 13:32:58 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\Auth' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/MerchantUccul.php on line 152
+[12-May-2016 13:33:12 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\Auth' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/MerchantUccul.php on line 152
+[12-May-2016 13:33:50 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\Auth' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/OrderUccul.php on line 128
+[12-May-2016 13:33:50 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\Auth' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/OrderUccul.php on line 128
+[12-May-2016 13:34:02 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\Auth' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/OrderUccul.php on line 128
+[12-May-2016 13:34:02 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\Auth' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/OrderUccul.php on line 128
+[12-May-2016 13:34:19 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\Auth' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/OrderUccul.php on line 128
+[12-May-2016 13:34:19 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\Auth' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/OrderUccul.php on line 128
+[12-May-2016 13:34:24 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\Auth' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AlertUccul.php on line 17
+[12-May-2016 15:56:19 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\Auth' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/MerchantUccul.php on line 227
+[12-May-2016 15:56:23 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\Auth' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/MerchantUccul.php on line 227
+[12-May-2016 15:56:35 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\Auth' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/MerchantUccul.php on line 227
+[12-May-2016 15:57:05 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\Auth' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/MerchantUccul.php on line 197
+[12-May-2016 15:57:08 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\Auth' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/MerchantUccul.php on line 197
+[12-May-2016 15:58:17 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\Auth' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AlertUccul.php on line 17
+[12-May-2016 18:23:27 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\Auth' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/OrderUccul.php on line 128
+[12-May-2016 18:23:27 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\Auth' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/OrderUccul.php on line 128
+[12-May-2016 19:56:55 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\Auth' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AlertUccul.php on line 17
+[12-May-2016 19:57:00 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\Auth' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AlertUccul.php on line 17
+[12-May-2016 19:57:50 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\Auth' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AlertUccul.php on line 17
+[12-May-2016 19:58:05 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\Auth' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AlertUccul.php on line 17
+[12-May-2016 19:59:44 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\Auth' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AlertUccul.php on line 17
+[12-May-2016 19:59:46 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\Auth' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AlertUccul.php on line 17
+[12-May-2016 20:02:16 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\Auth' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/OrderUccul.php on line 67
+[12-May-2016 20:03:24 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\Auth' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/OrderUccul.php on line 128
+[12-May-2016 20:03:24 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\Auth' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/OrderUccul.php on line 128
+[13-May-2016 16:54:44 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\Auth' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/OrderUccul.php on line 67
+[13-May-2016 16:56:52 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\Auth' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AlertUccul.php on line 17
+[16-May-2016 09:40:48 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\User' not found in /home/neptune2458/KOLOS/app/Http/Controllers/OrderController.php on line 181
+[17-May-2016 11:54:25 Asia/Jakarta] PHP Fatal error:  Call to a member function isEmpty() on a non-object in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AlertUccul.php on line 57
+[17-May-2016 11:54:38 Asia/Jakarta] PHP Fatal error:  Call to a member function isNull() on a non-object in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AlertUccul.php on line 57
+[17-May-2016 11:54:56 Asia/Jakarta] PHP Fatal error:  Call to a member function isNull() on a non-object in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AlertUccul.php on line 57
+[17-May-2016 20:55:21 Asia/Jakarta] PHP Fatal error:  Call to a member function delete() on a non-object in /home/neptune2458/KOLOS/app/Http/Controllers/Api/MerchantUccul.php on line 234
+[17-May-2016 20:55:26 Asia/Jakarta] PHP Fatal error:  Call to a member function delete() on a non-object in /home/neptune2458/KOLOS/app/Http/Controllers/Api/MerchantUccul.php on line 234
+[17-May-2016 20:57:04 Asia/Jakarta] PHP Fatal error:  Call to a member function delete() on a non-object in /home/neptune2458/KOLOS/app/Http/Controllers/Api/MerchantUccul.php on line 234
+[20-May-2016 11:27:29 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/MerchantUccul.php on line 42
+[20-May-2016 11:27:48 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\Validator' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/MerchantUccul.php on line 32
+[22-May-2016 09:44:31 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Api\Alert' not found in /home/neptune2458/KOLOS/app/Http/Controllers/Api/ReviewUccul.php on line 106
+[30-May-2016 11:52:22 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '(' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 26
+[30-May-2016 11:53:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '(' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 26
+[30-May-2016 12:07:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '(' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 26
+[30-May-2016 12:44:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '(' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 26
+[30-May-2016 12:45:41 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '(' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 26
+[30-May-2016 12:45:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '(' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 26
+[06-Jun-2016 09:07:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'current' (T_STRING) in /home/neptune2458/KOLOS/app/Http/Controllers/Api/OrderUccul.php on line 199
+[06-Jun-2016 09:07:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'current' (T_STRING) in /home/neptune2458/KOLOS/app/Http/Controllers/Api/OrderUccul.php on line 199
+[06-Jun-2016 09:07:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'current' (T_STRING) in /home/neptune2458/KOLOS/app/Http/Controllers/Api/OrderUccul.php on line 199
+[06-Jun-2016 09:07:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'current' (T_STRING) in /home/neptune2458/KOLOS/app/Http/Controllers/Api/OrderUccul.php on line 199
+[06-Jun-2016 09:07:57 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'current' (T_STRING) in /home/neptune2458/KOLOS/app/Http/Controllers/Api/OrderUccul.php on line 199
+[06-Jun-2016 09:07:57 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'current' (T_STRING) in /home/neptune2458/KOLOS/app/Http/Controllers/Api/OrderUccul.php on line 199
+[06-Jun-2016 09:08:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'current' (T_STRING) in /home/neptune2458/KOLOS/app/Http/Controllers/Api/OrderUccul.php on line 199
+[06-Jun-2016 09:08:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'current' (T_STRING) in /home/neptune2458/KOLOS/app/Http/Controllers/Api/OrderUccul.php on line 199
+[06-Jun-2016 09:08:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'current' (T_STRING) in /home/neptune2458/KOLOS/app/Http/Controllers/Api/OrderUccul.php on line 199
+[06-Jun-2016 09:08:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'current' (T_STRING) in /home/neptune2458/KOLOS/app/Http/Controllers/Api/OrderUccul.php on line 199
+[06-Jun-2016 09:09:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'current' (T_STRING) in /home/neptune2458/KOLOS/app/Http/Controllers/Api/OrderUccul.php on line 199
+[06-Jun-2016 09:09:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'current' (T_STRING) in /home/neptune2458/KOLOS/app/Http/Controllers/Api/OrderUccul.php on line 199
+[06-Jun-2016 09:09:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'current' (T_STRING) in /home/neptune2458/KOLOS/app/Http/Controllers/Api/OrderUccul.php on line 199
+[06-Jun-2016 09:09:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'current' (T_STRING) in /home/neptune2458/KOLOS/app/Http/Controllers/Api/OrderUccul.php on line 199
+[07-Jun-2016 13:49:38 Asia/Jakarta] PHP Fatal error:  Call to a member function where() on a non-object in /home/neptune2458/KOLOS/storage/framework/views/28699368cdb5f9e252972b25043a8511d7ddee06.php on line 147
+[07-Jun-2016 13:50:48 Asia/Jakarta] PHP Fatal error:  Call to a member function where() on a non-object in /home/neptune2458/KOLOS/storage/framework/views/28699368cdb5f9e252972b25043a8511d7ddee06.php on line 147
+[07-Jun-2016 13:51:08 Asia/Jakarta] PHP Fatal error:  Call to a member function where() on a non-object in /home/neptune2458/KOLOS/storage/framework/views/28699368cdb5f9e252972b25043a8511d7ddee06.php on line 147
+[07-Jun-2016 13:52:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')' in /home/neptune2458/KOLOS/storage/framework/views/28699368cdb5f9e252972b25043a8511d7ddee06.php on line 147
+[07-Jun-2016 13:54:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/neptune2458/KOLOS/storage/framework/views/28699368cdb5f9e252972b25043a8511d7ddee06.php on line 164
+[10-Jun-2016 15:29:29 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/neptune2458/KOLOS/app/Order.php on line 42
+[13-Jun-2016 10:18:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/neptune2458/KOLOS/app/Http/Controllers/OrderController.php on line 35
+[13-Jun-2016 10:18:45 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/neptune2458/KOLOS/app/Http/Controllers/OrderController.php on line 35
+[13-Jun-2016 10:18:46 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/neptune2458/KOLOS/app/Http/Controllers/OrderController.php on line 35
+[13-Jun-2016 10:18:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/neptune2458/KOLOS/app/Http/Controllers/OrderController.php on line 35
+[13-Jun-2016 16:27:22 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')' in /home/neptune2458/KOLOS/app/Http/Controllers/OrderController.php on line 144
+[13-Jun-2016 16:44:50 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in /home/neptune2458/KOLOS/app/Http/Controllers/OrderController.php on line 145
+[15-Jun-2016 10:24:13 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\UserMerchant' not found in /home/neptune2458/KOLOS/app/Http/Controllers/OrderController.php on line 169
+[15-Jun-2016 10:24:27 Asia/Jakarta] PHP Fatal error:  Class 'UserMerchant' not found in /home/neptune2458/KOLOS/app/Http/Controllers/OrderController.php on line 170
+[15-Jun-2016 10:24:40 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\User' not found in /home/neptune2458/KOLOS/app/Http/Controllers/OrderController.php on line 236
+[15-Jun-2016 12:43:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/HomeController.php on line 174
+[15-Jun-2016 12:43:52 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/neptune2458/KOLOS/app/Http/Controllers/HomeController.php on line 239
+[15-Jun-2016 12:51:34 Asia/Jakarta] PHP Fatal error:  Undefined class constant 'id' in /home/neptune2458/KOLOS/app/Http/Controllers/HomeController.php on line 117
+[15-Jun-2016 15:30:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')' in /home/neptune2458/KOLOS/app/Http/Controllers/OrderController.php on line 190
+[15-Jun-2016 15:30:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')' in /home/neptune2458/KOLOS/app/Http/Controllers/OrderController.php on line 190
+[15-Jun-2016 15:30:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')' in /home/neptune2458/KOLOS/app/Http/Controllers/OrderController.php on line 190
+[15-Jun-2016 15:30:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')' in /home/neptune2458/KOLOS/app/Http/Controllers/OrderController.php on line 190
+[15-Jun-2016 15:30:58 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')' in /home/neptune2458/KOLOS/app/Http/Controllers/OrderController.php on line 190
+[15-Jun-2016 15:30:58 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')' in /home/neptune2458/KOLOS/app/Http/Controllers/OrderController.php on line 190
+[15-Jun-2016 15:30:58 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')' in /home/neptune2458/KOLOS/app/Http/Controllers/OrderController.php on line 190
+[15-Jun-2016 15:30:58 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')' in /home/neptune2458/KOLOS/app/Http/Controllers/OrderController.php on line 190
+[15-Jun-2016 15:31:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')' in /home/neptune2458/KOLOS/app/Http/Controllers/OrderController.php on line 190
+[15-Jun-2016 15:31:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')' in /home/neptune2458/KOLOS/app/Http/Controllers/OrderController.php on line 190
+[15-Jun-2016 15:31:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')' in /home/neptune2458/KOLOS/app/Http/Controllers/OrderController.php on line 190
+[15-Jun-2016 15:31:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')' in /home/neptune2458/KOLOS/app/Http/Controllers/OrderController.php on line 190
+[15-Jun-2016 15:31:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')' in /home/neptune2458/KOLOS/app/Http/Controllers/OrderController.php on line 190
+[15-Jun-2016 15:31:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')' in /home/neptune2458/KOLOS/app/Http/Controllers/OrderController.php on line 190
+[16-Jun-2016 16:56:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/neptune2458/KOLOS/app/Http/routes.php on line 50
+[16-Jun-2016 16:56:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/neptune2458/KOLOS/app/Http/routes.php on line 50
+[20-Jun-2016 01:08:14 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\App\Auth' not found in /home/neptune2458/KOLOS/app/Http/Controllers/App/OrderCtrl.php on line 32
+[20-Jun-2016 01:08:31 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\App\Auth' not found in /home/neptune2458/KOLOS/app/Http/Controllers/App/OrderCtrl.php on line 32
+[20-Jun-2016 08:25:56 Asia/Jakarta] PHP Fatal error:  Call to undefined method Symfony\Component\HttpFoundation\Response::header() in /home/neptune2458/KOLOS/app/Http/Middleware/Cors.php on line 11
+[20-Jun-2016 08:27:37 Asia/Jakarta] PHP Fatal error:  Call to undefined method Symfony\Component\HttpFoundation\Response::header() in /home/neptune2458/KOLOS/app/Http/Middleware/Cors.php on line 13
+[20-Jun-2016 08:27:40 Asia/Jakarta] PHP Fatal error:  Call to undefined method Symfony\Component\HttpFoundation\Response::header() in /home/neptune2458/KOLOS/app/Http/Middleware/Cors.php on line 13
+[23-Jun-2016 12:09:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/neptune2458/KOLOS/app/Http/Controllers/App/UserCtrl.php on line 200
+[29-Jul-2016 10:47:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/neptune2458/KOLOS/storage/framework/views/28699368cdb5f9e252972b25043a8511d7ddee06.php on line 229
+[29-Jul-2016 10:47:40 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/neptune2458/KOLOS/storage/framework/views/28699368cdb5f9e252972b25043a8511d7ddee06.php on line 229
+[29-Jul-2016 10:48:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/neptune2458/KOLOS/storage/framework/views/28699368cdb5f9e252972b25043a8511d7ddee06.php on line 229
+[29-Jul-2016 10:48:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/neptune2458/KOLOS/storage/framework/views/28699368cdb5f9e252972b25043a8511d7ddee06.php on line 229
+[29-Jul-2016 10:48:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/neptune2458/KOLOS/storage/framework/views/28699368cdb5f9e252972b25043a8511d7ddee06.php on line 229
+[29-Jul-2016 10:48:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/neptune2458/KOLOS/storage/framework/views/28699368cdb5f9e252972b25043a8511d7ddee06.php on line 229
+[29-Jul-2016 10:49:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/neptune2458/KOLOS/storage/framework/views/28699368cdb5f9e252972b25043a8511d7ddee06.php on line 229
+[29-Jul-2016 10:49:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/neptune2458/KOLOS/storage/framework/views/28699368cdb5f9e252972b25043a8511d7ddee06.php on line 229
+[29-Jul-2016 10:49:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/neptune2458/KOLOS/storage/framework/views/28699368cdb5f9e252972b25043a8511d7ddee06.php on line 229
+[29-Jul-2016 10:49:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/neptune2458/KOLOS/storage/framework/views/28699368cdb5f9e252972b25043a8511d7ddee06.php on line 229
+[29-Jul-2016 10:49:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/neptune2458/KOLOS/storage/framework/views/28699368cdb5f9e252972b25043a8511d7ddee06.php on line 229
+[29-Jul-2016 10:50:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/neptune2458/KOLOS/storage/framework/views/28699368cdb5f9e252972b25043a8511d7ddee06.php on line 229
+[29-Jul-2016 10:50:01 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/neptune2458/KOLOS/storage/framework/views/28699368cdb5f9e252972b25043a8511d7ddee06.php on line 229
+[29-Jul-2016 10:50:02 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/neptune2458/KOLOS/storage/framework/views/28699368cdb5f9e252972b25043a8511d7ddee06.php on line 229
+[29-Jul-2016 10:50:02 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/neptune2458/KOLOS/storage/framework/views/28699368cdb5f9e252972b25043a8511d7ddee06.php on line 229
+[29-Jul-2016 10:50:02 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/neptune2458/KOLOS/storage/framework/views/28699368cdb5f9e252972b25043a8511d7ddee06.php on line 229
+[29-Jul-2016 17:00:44 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\App\Mail' not found in /home/neptune2458/KOLOS/app/Http/Controllers/App/OrderCtrl.php on line 213
+[29-Jul-2016 17:01:22 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\App\Mail' not found in /home/neptune2458/KOLOS/app/Http/Controllers/App/OrderCtrl.php on line 213
+[01-Aug-2016 15:06:49 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Mail' not found in /home/neptune2458/KOLOS/app/Http/Controllers/OrderController.php on line 197
+[11-Aug-2016 13:01:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/neptune2458/KOLOS/app/Http/Controllers/NotificationController.php on line 14
+[11-Aug-2016 13:13:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/neptune2458/KOLOS/app/Http/Controllers/NotificationController.php on line 15
+[11-Aug-2016 13:13:45 Asia/Jakarta] PHP Fatal error:  Cannot use [] for reading in /home/neptune2458/KOLOS/app/Http/Controllers/NotificationController.php on line 15
+[12-Aug-2016 14:46:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/neptune2458/KOLOS/app/Http/Controllers/ProController.php on line 410
+[12-Aug-2016 14:51:05 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Auth' not found in /home/neptune2458/KOLOS/app/Http/Controllers/ProController.php on line 104
+[15-Aug-2016 12:45:40 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '{' in /home/neptune2458/KOLOS/app/Http/Controllers/UserController.php on line 76
+[16-Aug-2016 11:01:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/neptune2458/KOLOS/app/Http/Controllers/UserController.php on line 54
+[16-Aug-2016 15:10:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/UserController.php on line 100
+[16-Aug-2016 15:10:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/UserController.php on line 100
+[16-Aug-2016 15:10:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/UserController.php on line 100
+[16-Aug-2016 15:10:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/UserController.php on line 100
+[16-Aug-2016 15:10:47 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/UserController.php on line 100
+[16-Aug-2016 15:10:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/UserController.php on line 100
+[16-Aug-2016 15:11:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/UserController.php on line 100
+[16-Aug-2016 15:11:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/UserController.php on line 100
+[16-Aug-2016 15:11:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/UserController.php on line 100
+[16-Aug-2016 15:11:47 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/UserController.php on line 100
+[16-Aug-2016 15:14:40 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/UserController.php on line 102
+[16-Aug-2016 15:14:40 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/UserController.php on line 102
+[16-Aug-2016 15:14:40 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/UserController.php on line 102
+[16-Aug-2016 15:14:40 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/UserController.php on line 102
+[16-Aug-2016 15:15:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/UserController.php on line 102
+[16-Aug-2016 15:15:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/UserController.php on line 102
+[16-Aug-2016 15:15:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/UserController.php on line 102
+[16-Aug-2016 15:15:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/UserController.php on line 102
+[16-Aug-2016 15:16:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/UserController.php on line 102
+[16-Aug-2016 15:16:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/UserController.php on line 102
+[16-Aug-2016 15:18:52 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/UserController.php on line 102
+[16-Aug-2016 15:21:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/UserController.php on line 102
+[16-Aug-2016 15:42:18 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Mail' not found in /home/neptune2458/KOLOS/app/Http/Controllers/UserController.php on line 119
+[16-Aug-2016 15:45:16 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->input(' in /home/neptune2458/KOLOS/app/Http/Controllers/UserController.php on line 251
+[22-Aug-2016 11:42:29 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:42:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:42:31 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:42:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:42:33 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:42:34 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:42:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:42:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:42:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:42:40 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:42:41 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:42:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:42:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:42:46 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:42:47 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:42:48 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:42:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:42:50 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:42:52 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:42:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:42:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:42:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:42:58 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:42:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:01 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:02 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:16 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:17 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:19 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:20 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:22 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:31 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:33 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:34 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:36 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:40 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:42 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:45 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:46 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:48 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:51 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:52 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:57 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:43:58 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:01 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:17 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:18 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:20 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:27 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:29 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:33 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:41 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:42 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:45 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:46 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:48 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:51 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:52 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:57 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:44:58 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:01 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:16 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:18 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:19 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:22 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:27 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:29 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:33 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:40 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:41 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:42 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:45 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:46 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:48 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:51 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:52 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:57 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:45:58 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:46:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:46:01 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:46:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:46:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:46:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:46:08 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:46:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:46:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:46:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:46:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/neptune2458/KOLOS/app/Http/Controllers/FollowerController.php on line 25
+[22-Aug-2016 11:49:43 Asia/Jakarta] PHP Fatal error:  Call to a member function format() on a non-object in /home/neptune2458/KOLOS/storage/framework/views/9eef204df88bc761f1daca9de1493c80dd5ff17f.php on line 25
+[22-Aug-2016 11:50:43 Asia/Jakarta] PHP Fatal error:  Call to a member function getTimestamp() on a non-object in /home/neptune2458/KOLOS/storage/framework/views/9eef204df88bc761f1daca9de1493c80dd5ff17f.php on line 25
+[22-Aug-2016 11:50:44 Asia/Jakarta] PHP Fatal error:  Call to a member function getTimestamp() on a non-object in /home/neptune2458/KOLOS/storage/framework/views/9eef204df88bc761f1daca9de1493c80dd5ff17f.php on line 25
+[22-Aug-2016 11:51:34 Asia/Jakarta] PHP Fatal error:  Call to a member function format() on a non-object in /home/neptune2458/KOLOS/storage/framework/views/9eef204df88bc761f1daca9de1493c80dd5ff17f.php on line 25
+[22-Aug-2016 11:51:35 Asia/Jakarta] PHP Fatal error:  Call to a member function format() on a non-object in /home/neptune2458/KOLOS/storage/framework/views/9eef204df88bc761f1daca9de1493c80dd5ff17f.php on line 25
+[29-Aug-2016 13:34:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'list' (T_LIST) in /home/neptune2458/KOLOS/app/Http/Controllers/ProController.php on line 127
+[29-Aug-2016 18:46:21 Asia/Jakarta] PHP Fatal error:  Call to undefined method Illuminate\Routing\Redirector::intented() in /home/neptune2458/KOLOS/app/Http/Controllers/ProController.php on line 87
+[30-Aug-2016 11:59:27 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''cover'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/HomeController.php on line 302
+[30-Aug-2016 11:59:29 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''cover'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/neptune2458/KOLOS/app/Http/Controllers/HomeController.php on line 302
+[30-Aug-2016 19:20:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/neptune2458/KOLOS/app/Http/Controllers/Api/AuthUccul.php on line 128

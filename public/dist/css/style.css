@@ -1,0 +1,89 @@
+/* navbar */
+.z-depth-1, nav, .card-panel, .card, .toast, .btn, .btn-large, .btn-floating, .dropdown-content, .collapsible, .side-nav{
+  box-shadow: none;
+}
+nav .transparent{ background-color: transparent; transition: all 0.3s; }
+nav{ background-color: #FCF2D9; opacity: 0.9; transition: all 0.3s; }
+nav ul a{ color: #632aac; font-size: 18px; }
+.navbar-fixed{ height: 0; }
+.brand-logo { color: #f06d0f!important; font-weight: 300; }
+.brand-logo img {     
+    vertical-align: top;
+    margin-top: 12px;
+    height: 38px; 
+}
+
+
+.valign-middle{ vertical-align: middle; }
+
+.parallax-container {
+  min-height: 550px;
+  line-height: 1.5;
+  height: auto;
+}
+.parallax-container h3{ margin: 0; font-weight: 200; }
+.parallax-container p{ font-size: 12px; font-weight: 300; }
+.parallax-container .col{ padding: 0 }
+.parallax-container .row{ margin-bottom: 0 }
+.parallax-container .row a{ font-size: 12px; font-weight: 400 }
+.parallax-container .row .material-icons{ vertical-align: middle; }
+.parallax-container .section { width: 100%; }
+.parallax-container .section a.appstore{ z-index: 2; position: relative; overflow: hidden; }
+
+/* services */
+.services h3{ font-size: 22px; font-weight: 300 }
+.services{ font-weight: 300; }
+.services .item{
+  height: 200px;
+  background-color: #F17A24;
+  color: white;
+  padding: 25px;
+  position: relative;
+}
+.services .item h3{ font-weight: 300; }
+.services .item h3.in-image{ color: #F17A24; position: absolute; bottom: 0; left: 25px; }
+.services .item p{ font-size: 12px; font-weight: 200; }
+
+.services h4{ font-size: 18px; color: #F17A24; }
+.services .icon-box{
+    width: 60px;
+    height: 60px;
+    float: none;
+    text-align: center;
+    margin: auto;
+    background-color: #733FB4;
+    border-radius: 50%;
+}
+.services .icon-box i{ color: #fff; line-height: 60px; }
+
+.reason h4{ font-size: 22px; font-weight: 300; }
+.reason h5{ font-size: 14px; font-weight: 400; color: #632aac; }
+.reason p{ font-weight: 300; }
+
+.footer{ background-color: #192431; padding: 50px 0; color: #eee; font-weight: 300; }
+.footer h3{ font-size: 18px; color: #eee; }
+.footer .copyright{ margin-top: 50px; }
+.footer .copyright a{ margin-right: 40px; color: #eee; }
+.footer .footer-up a{ color: #eee; font-weight: 400; }
+.footer .footer-up a .material-icons{ vertical-align: middle; }
+.footer .sosmed a{ color: #fff; margin-left: 15px; float: right; transition: all 0.3s; -webkit-transition: all 0.3s; }
+.footer .sosmed a:hover{ color: #632aac; }
+
+.modal h4{ font-weight: 300; text-align: center; }
+
+@media screen and (max-width: 980px) {
+    .iphone-img {
+        width: 35%!important;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .intro .section { position: absolute; top: 15%; }
+    .iphone-img {
+        top: 48%!important;
+        right: 15%!important;
+        width: 55%!important;
+    }
+    .shadow{ text-shadow: 1px 1px 1px black; }
+    .appstore img{ width: 40%; }
+}
